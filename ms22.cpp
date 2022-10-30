@@ -4,7 +4,6 @@ struct ListNode {
 };
 
 
-
 class Solution {
 public:
     ListNode* getKthFromEnd(ListNode* head, int k) {
