@@ -1,3 +1,9 @@
+# Code Interview (剑指offer)
+
+Leetcode link: [https://leetcode.cn/problem-list/xb9nqhhg/](https://leetcode.cn/problem-list/xb9nqhhg/)
+
+Github repo link: [https://github.com/zheda-libin/libsword](https://github.com/zheda-libin/libsword)
+
 | 题目序号 | A完时间 | Github地址 | Leetcode地址|
 | --- | --- | --- | --- |
 | ms3.cpp | 2022.10.26 | [link](https://github.com/zheda-libin/libsword/blob/master/ms3.cpp) | [数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) |
