@@ -1,5 +1,5 @@
-#include<vector>
-using namespace std;
+#include "base.h"
+
 
 // 方法1. c语言
 bool findNumberIn2DArray(int** matrix, int matrixSize, int* matrixColSize, int target){

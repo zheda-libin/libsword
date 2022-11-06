@@ -1,7 +1,4 @@
-#include <vector>
-#include <algorithm>
-#include <unordered_set>
-using namespace std;
+#include "base.h"
 
 // 方法1. C语言版本
 int findRepeatNumber(int* nums, int numsSize){

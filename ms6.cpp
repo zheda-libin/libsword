@@ -1,11 +1,4 @@
-#include <vector>
-#include <algorithm>
-using namespace std;
-
-struct ListNode {
-    int val;
-    ListNode *next;
-};
+#include "base.h"
 
 
 class Solution {

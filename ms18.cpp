@@ -1,7 +1,4 @@
-struct ListNode {
-    int val;
-    ListNode *next;
-};
+#include "base.h"
 
 
 class Solution {
