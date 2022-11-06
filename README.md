@@ -10,3 +10,4 @@
 | ms25.cpp | 2022.10.31 | [link](https://github.com/zheda-libin/libsword/blob/master/ms25.cpp) | [合并两个排序的链表](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) |
 | ms26.cpp | 2022.11.6 | [link](https://github.com/zheda-libin/libsword/blob/master/ms26.cpp) | [树的子结构](https://leetcode.cn/problems/shu-de-zi-jie-gou-lcof/) |
 | ms27.cpp | 2022.11.6 | [link](https://github.com/zheda-libin/libsword/blob/master/ms27.cpp) | [二叉树的镜像](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof/) |
+| ms28.cpp | 2022.11.6 | [link](https://github.com/zheda-libin/libsword/blob/master/ms28.cpp) | [对称的二叉树](https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof/) |
